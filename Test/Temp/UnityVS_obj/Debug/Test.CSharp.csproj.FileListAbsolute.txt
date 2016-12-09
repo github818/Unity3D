@@ -1,0 +1,15 @@
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
+E:\WorkSpeaces\Unity3D\Test\Temp\UnityVS_obj\Debug\Test.CSharp.csprojResolveAssemblyReference.cache
